@@ -43,9 +43,9 @@ All data used is openly licensed (CC BY 4.0):
 
 | Source | What it provides |
 |---|---|
-| [Deutsche Bahn open data](https://huggingface.co/datasets/piebro/deutsche-bahn-data) (via Brömmel, Hugging Face) | Train operational data — scheduled and actual arrival/departure times |
+| [Deutsche Bahn open data](https://huggingface.co/datasets/piebro/deutsche-bahn-data) (via Brömmel, Hugging Face) | Train operational data - scheduled and actual arrival/departure times |
 | [Open-Meteo Historical Weather API](https://open-meteo.com/) | Hourly weather observations per station |
-| [DB InfraGO Streckennetz](https://mobilithek.info/offers/922109165921083392) | Track infrastructure — electrification, track count, speed limits |
+| [DB InfraGO Streckennetz](https://mobilithek.info/offers/922109165921083392) | Track infrastructure - electrification, track count, speed limits |
 
 **Coverage:** Berlin, Hamburg, and München · **Train:** Nov 2025–Apr 2026 · **Test:** May–Jul 2026 (forward-in-time, no overlap)
 
